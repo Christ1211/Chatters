@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ChatSysyarn-build/static/css/main.79f3be47.css",
-    "main.js": "/ChatSysyarn-build/static/js/main.1a09775c.js",
+    "main.js": "/ChatSysyarn-build/static/js/main.d07a4a13.js",
     "index.html": "/ChatSysyarn-build/index.html",
     "main.79f3be47.css.map": "/ChatSysyarn-build/static/css/main.79f3be47.css.map",
-    "main.1a09775c.js.map": "/ChatSysyarn-build/static/js/main.1a09775c.js.map"
+    "main.d07a4a13.js.map": "/ChatSysyarn-build/static/js/main.d07a4a13.js.map"
   },
   "entrypoints": [
     "static/css/main.79f3be47.css",
-    "static/js/main.1a09775c.js"
+    "static/js/main.d07a4a13.js"
   ]
 }
